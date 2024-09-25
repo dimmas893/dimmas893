@@ -39,6 +39,18 @@
 
 ---
 
+## My GitHub Stats
+
+![dimmas893's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimmas893&show_icons=true&theme=radical)
+
+## My Contribution Graph
+
+![dimmas893's GitHub Contribution Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=dimmas893&layout=compact&theme=radical)
+
+## GitHub Profile Summary Cards
+
+![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimmas893&theme=github_dark)
+
 ### 📫 How to reach me
 - **Instagram**: [@anandadimmas](https://www.instagram.com/anandadimmas/)
 - **Email**: [anandadimmas1204@gmail.com](mailto:anandadimmas1204@gmail.com)
