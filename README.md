@@ -41,15 +41,21 @@
 
 ## My GitHub Stats
 
-![dimmas893's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dimmas893&show_icons=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dimmas893&show_icons=true&theme=radical" alt="GitHub Stats" style="width: 100%;">
+</div>
 
 ## My Contribution Graph
 
-![dimmas893's GitHub Contribution Graph](https://github-readme-stats.vercel.app/api/top-langs/?username=dimmas893&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dimmas893&layout=compact&theme=radical" alt="Contribution Graph" style="width: 100%;">
+</div>
 
 ## GitHub Profile Summary Cards
 
-![GitHub Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimmas893&theme=github_dark)
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dimmas893&theme=github_dark" alt="GitHub Profile Summary Card" style="width: 100%;">
+</div>
 
 ### 📫 How to reach me
 - **Instagram**: [@anandadimmas](https://www.instagram.com/anandadimmas/)
